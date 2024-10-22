@@ -1,0 +1,30 @@
+[
+  {
+      "id": 1,
+      "title": "Top 10 SEO strategies for a business",
+      "image": "/Asset/seoi.jpeg",
+      "path": "/Digital_Marketing_Blog",
+      "sub": "DM"
+  },
+  {
+      "id": 2,
+      "title": "Guide for SAP ECC to S/4HANA Conversion",
+      "image": "/Asset/han.jpeg",
+      "path": "/Sap_blog",
+      "sub": "SAP"
+  },
+  {
+      "id": 3,
+      "title": "The Importance of CRM for Business",
+      "image": "/Asset/crmblog.jpg",
+      "path": "/IT_Blog",
+      "sub": "IT"
+  },
+  {
+    "id": 4,
+    "title": "RISE with SAP, GROW with SAP, and SAP S/4HANA.",
+    "image": "/Asset/textsap.png",
+    "path": "/Sap_blog1",
+    "sub": "SAP"
+}
+]
